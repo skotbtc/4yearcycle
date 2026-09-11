@@ -1,0 +1,29 @@
+{
+  "name": "Journey Portfolio",
+  "short_name": "Journey",
+  "display": "standalone",
+  "background_color": "#161826",
+  "theme_color": "#161826",
+  "start_url": "./",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
